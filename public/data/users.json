@@ -1,0 +1,236 @@
+[{"id":1,"first_name":"Meggie","last_name":"Blow","team_id":1,"month":45,"position":"Programmer III", "isManager":false},
+{"id":2,"first_name":"Jill","last_name":"Neilus","team_id":2,"month":10,"position":"Help Desk Operator", "isManager":false},
+{
+  "id": 3,
+  "first_name": "Myrtie",
+  "last_name": "Erbe",
+  "team_id": 1,
+  "month": 19,
+  "position": "VP Marketing",
+  "isManager": false
+},
+{
+  "id": 4,
+  "first_name": "Elnore",
+  "last_name": "Vowdon",
+  "team_id": 1,
+  "month": 42,
+  "position": "Administrative Assistant",
+  "isManager": false
+},
+{
+  "id": 5,
+  "first_name": "Beckie",
+  "last_name": "Scimoni",
+  "team_id": 2,
+  "month": 6,
+  "position": "Paralegal",
+  "isManager": false
+},
+{
+  "id": 6,
+  "first_name": "Bobbie",
+  "last_name": "Moysey",
+  "team_id": 1,
+  "month": 9,
+  "position": "Senior Cost Accountant",
+  "isManager": true
+},
+{
+  "id": 7,
+  "first_name": "Laverne",
+  "last_name": "Fremantle",
+  "team_id": 2,
+  "month": 38,
+  "position": "Compensation Analyst",
+  "isManager": false
+},
+{
+  "id": 8,
+  "first_name": "Waldo",
+  "last_name": "Bradden",
+  "team_id": 2,
+  "month": 36,
+  "position": "Senior Editor",
+  "isManager": true
+},
+{
+  "id": 9,
+  "first_name": "Lemmy",
+  "last_name": "Braferton",
+  "team_id": 1,
+  "month": 19,
+  "position": "Help Desk Technician",
+  "isManager": false
+},
+{
+  "id": 10,
+  "first_name": "Brad",
+  "last_name": "Mitkov",
+  "team_id": 1,
+  "month": 36,
+  "position": "Social Worker",
+  "isManager": false
+},
+{
+  "id": 11,
+  "first_name": "Kalindi",
+  "last_name": "Allbut",
+  "team_id": 1,
+  "month": 2,
+  "position": "Marketing Assistant",
+  "isManager": false
+},
+{
+  "id": 12,
+  "first_name": "Karee",
+  "last_name": "Jurries",
+  "team_id": 2,
+  "month": 24,
+  "position": "Help Desk Technician",
+  "isManager": false
+},
+{
+  "id": 13,
+  "first_name": "Gun",
+  "last_name": "Colkett",
+  "team_id": 1,
+  "month": 47,
+  "position": "Editor",
+  "isManager": false
+},
+{
+  "id": 14,
+  "first_name": "Elna",
+  "last_name": "Brockherst",
+  "team_id": 1,
+  "month": 4,
+  "position": "Senior Quality Engineer",
+  "isManager": true
+},
+{
+  "id": 15,
+  "first_name": "Etienne",
+  "last_name": "Igonet",
+  "team_id": 2,
+  "month": 13,
+  "position": "Budget/Accounting Analyst",
+  "isManager": false
+},
+{
+  "id": 16,
+  "first_name": "Jenelle",
+  "last_name": "Paullin",
+  "team_id": 2,
+  "month": 10,
+  "position": "Help Desk Operator",
+  "isManager": false
+},
+{
+  "id": 17,
+  "first_name": "Abbey",
+  "last_name": "Munro",
+  "team_id": 1,
+  "month": 47,
+  "position": "Sales Associate",
+  "isManager": false
+},
+{
+  "id": 18,
+  "first_name": "Errick",
+  "last_name": "Exeter",
+  "team_id": 2,
+  "month": 12,
+  "position": "Food Chemist",
+  "isManager": false
+},
+{
+  "id": 19,
+  "first_name": "Addi",
+  "last_name": "Colin",
+  "team_id": 1,
+  "month": 9,
+  "position": "Paralegal",
+  "isManager": false
+},
+{
+  "id": 20,
+  "first_name": "Rickie",
+  "last_name": "Diloway",
+  "team_id": 1,
+  "month": 15,
+  "position": "Internal Auditor",
+  "isManager": false
+},
+{
+  "id": 21,
+  "first_name": "Filberto",
+  "last_name": "Juster",
+  "team_id": 1,
+  "month": 5,
+  "position": "Payment Adjustment Coordinator",
+  "isManager": false
+},
+{
+  "id": 22,
+  "first_name": "Dulcine",
+  "last_name": "Dauber",
+  "team_id": 1,
+  "month": 27,
+  "position": "Design Engineer",
+  "isManager": false
+},
+{
+  "id": 23,
+  "first_name": "Claire",
+  "last_name": "Hucker",
+  "team_id": 2,
+  "month": 4,
+  "position": "Food Chemist",
+  "isManager": false
+},
+{
+  "id": 24,
+  "first_name": "Ericha",
+  "last_name": "Copes",
+  "team_id": 1,
+  "month": 49,
+  "position": "Software Consultant",
+  "isManager": false
+},
+{
+  "id": 25,
+  "first_name": "Herold",
+  "last_name": "Kitchingman",
+  "team_id": 2,
+  "month": 38,
+  "position": "VP Accounting",
+  "isManager": false
+},
+{
+  "id": 26,
+  "first_name": "Bennie",
+  "last_name": "McNess",
+  "team_id": 2,
+  "month": 50,
+  "position": "Executive Secretary",
+  "isManager": false
+},
+{
+  "id": 27,
+  "first_name": "Thoma",
+  "last_name": "Kunkel",
+  "team_id": 2,
+  "month": 38,
+  "position": "Food Chemist",
+  "isManager": false
+},
+{
+  "id": 28,
+  "first_name": "Nollie",
+  "last_name": "Morsley",
+  "team_id": 2,
+  "month": 14,
+  "position": "Computer Systems Analyst",
+  "isManager": true
+}]

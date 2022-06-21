@@ -1,0 +1,18 @@
+.leftButton{
+  position: fixed;
+    top: 50%;
+    left: 0%;
+}
+.rightButton{
+  position: fixed;
+    top: 50%;
+    right: 0%;
+}
+.getStickerButton{
+  position: fixed;
+    top: 85%;
+    left: 85%;
+}
+.descriptionBox {
+    height: 60px;
+}

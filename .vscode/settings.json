@@ -1,0 +1,11 @@
+{
+    "editor.tabSize": 2,
+    "eslint.format.enable": true,
+    "editor.formatOnSave": false,
+    "terminal.integrated.automationShell.linux": "",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.fixAll.tslint": true,
+        "source.fixAll.stylelint": true
+    },
+}
